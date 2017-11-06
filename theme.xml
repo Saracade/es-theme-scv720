@@ -208,7 +208,7 @@ version         2.0
          <pos>1 1</pos>
       </text>
       <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_players,md_releasedate">
-         <color>ffffff</color>
+         <color>424347</color>
          <fontPath>./_inc/fonts/Audiowide-Regular.ttf</fontPath>
          <fontSize>0.0195</fontSize>
       </text>
