@@ -247,8 +247,8 @@ version         2.0
          <size>0.1 0.035</size>
       </text>
       <text name="md_description">
-         <pos>0.55 0.72</pos>
-         <size>0.4 0.21</size>
+         <pos>0.55 0.75</pos>
+         <size>0.4 0.20</size>
          <color>424347</color>
       </text>
 	  <image name="logo">
